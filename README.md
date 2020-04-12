@@ -28,10 +28,10 @@ comp). To this dataset we added features like Technical Indicators, number of wi
 
 ## Trends-
 Fig1: Shows the closing price trend of Adani Ports for over 10 years-
-<img src="Images/graph1.jpg" alt="drawing" width="400" height="600"/>
+<img src="Images/graph1.jpg" alt="drawing" width="800" height="400"/>
 
 Fig2: This is a KDE plot of the closing price of Adani Ports over 10 years-
-<img src="Images/kde_plot_adani.jpg" alt="drawing" width="400" height="600"/>
+<img src="Images/kde_plot_adani.jpg" alt="drawing" width="600" height="400"/>
 We see that the data is not Gaussian (normally distributed).
 Similarly, we need to analyze the trend of the company to which we fit our model and make
 appropriate transformations to the data prior to modeling and then run the model on it.
